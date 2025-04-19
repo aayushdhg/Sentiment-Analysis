@@ -5,7 +5,7 @@
         "50",
         "series"
       ],
-      29
+      30
     ],
     "trigrams": [
       [
@@ -13,16 +13,16 @@
         "50",
         "series"
       ],
-      17
+      19
     ]
   },
   {
     "bigrams": [
       [
-        "5060",
-        "ti"
+        "rtx",
+        "50"
       ],
-      23
+      19
     ],
     "trigrams": [
       [
@@ -36,18 +36,18 @@
   {
     "bigrams": [
       [
-        "5070",
+        "5060",
         "ti"
       ],
-      19
+      18
     ],
     "trigrams": [
       [
         "rtx",
-        "5060",
+        "5070",
         "ti"
       ],
-      9
+      8
     ]
   },
   {
@@ -60,25 +60,8 @@
     ],
     "trigrams": [
       [
-        "nvidia",
-        "control",
-        "panel"
-      ],
-      6
-    ]
-  },
-  {
-    "bigrams": [
-      [
         "rtx",
-        "50"
-      ],
-      17
-    ],
-    "trigrams": [
-      [
-        "rtx",
-        "5070",
+        "5060",
         "ti"
       ],
       6
@@ -87,18 +70,18 @@
   {
     "bigrams": [
       [
-        "geforce",
-        "rtx"
+        "5070",
+        "ti"
       ],
       16
     ],
     "trigrams": [
       [
-        "5060",
-        "ti",
-        "16gb"
+        "nvidia",
+        "control",
+        "panel"
       ],
-      5
+      6
     ]
   },
   {
@@ -121,10 +104,10 @@
   {
     "bigrams": [
       [
-        "rtx",
-        "5090"
+        "geforce",
+        "rtx"
       ],
-      12
+      14
     ],
     "trigrams": [
       [
@@ -138,10 +121,10 @@
   {
     "bigrams": [
       [
-        "steel",
-        "nomad"
+        "rtx",
+        "5090"
       ],
-      12
+      13
     ],
     "trigrams": [
       [
@@ -149,7 +132,7 @@
         "rtx",
         "5060"
       ],
-      4
+      3
     ]
   },
   {
@@ -159,23 +142,6 @@
         "buy"
       ],
       12
-    ],
-    "trigrams": [
-      [
-        "gigabyte",
-        "gaming",
-        "oc"
-      ],
-      4
-    ]
-  },
-  {
-    "bigrams": [
-      [
-        "4070",
-        "ti"
-      ],
-      11
     ],
     "trigrams": [
       [
@@ -206,16 +172,16 @@
   {
     "bigrams": [
       [
-        "unreal",
-        "engine"
+        "rtx",
+        "5070"
       ],
       10
     ],
     "trigrams": [
       [
-        "would",
-        "love",
-        "hear"
+        "nvidia",
+        "smooth",
+        "motion"
       ],
       3
     ]
@@ -223,8 +189,8 @@
   {
     "bigrams": [
       [
-        "rtx",
-        "5070"
+        "power",
+        "draw"
       ],
       10
     ],
@@ -247,9 +213,9 @@
     ],
     "trigrams": [
       [
-        "350",
-        "core",
-        "1500"
+        "would",
+        "love",
+        "hear"
       ],
       3
     ]
@@ -264,9 +230,9 @@
     ],
     "trigrams": [
       [
-        "steel",
-        "nomad",
-        "undervolt"
+        "5060",
+        "ti",
+        "16gb"
       ],
       3
     ]
@@ -281,9 +247,9 @@
     ],
     "trigrams": [
       [
-        "msi",
-        "gaming",
-        "trio"
+        "tb",
+        "m22280",
+        "pcie"
       ],
       3
     ]
@@ -298,26 +264,9 @@
     ],
     "trigrams": [
       [
-        "core",
-        "2000",
-        "memory"
-      ],
-      3
-    ]
-  },
-  {
-    "bigrams": [
-      [
-        "rtx",
-        "5060"
-      ],
-      9
-    ],
-    "trigrams": [
-      [
-        "tb",
         "m22280",
-        "pcie"
+        "pcie",
+        "40"
       ],
       3
     ]
@@ -332,9 +281,60 @@
     ],
     "trigrams": [
       [
-        "m22280",
         "pcie",
-        "40"
+        "40",
+        "x4"
+      ],
+      3
+    ]
+  },
+  {
+    "bigrams": [
+      [
+        "4070",
+        "ti"
+      ],
+      9
+    ],
+    "trigrams": [
+      [
+        "40",
+        "x4",
+        "nvme"
+      ],
+      3
+    ]
+  },
+  {
+    "bigrams": [
+      [
+        "gpu",
+        "tweak"
+      ],
+      9
+    ],
+    "trigrams": [
+      [
+        "win",
+        "rtx",
+        "4060"
+      ],
+      3
+    ]
+  },
+  {
+    "bigrams": [
+      [
+        "dlss",
+        "4"
+      ],
+      8
+    ],
+    "trigrams": [
+      [
+        "rtx",
+        "4060",
+        "family"
       ],
       3
     ]
